@@ -4,7 +4,8 @@
 
 This repository contains projects I have worked on during my undergraduate and graduate career. 
 
-## [Principal Component Analysis (PCA) on Wine Dataset](https://github.com/dua-malik/Academic_Projects/blob/main/PCA_WineData.ipynb):
+<details><summary> 
+## [Principal Component Analysis (PCA) on Wine Dataset](https://github.com/dua-malik/Academic_Projects/blob/main/PCA_WineData.ipynb): </summary>
 ### Objective:
 Principal component analysis is a stastical approach that summarizes content within large datasets using summary indices. These summary indices can then be used to visualize and analyze the data. PCA is a great tool that improves performance with minimal loss of model accuracy. Furthermore, it helps reduce noise in the data, and aids in the ability to identify/produce independent features in the data that do not share any correlation. 
 
@@ -12,6 +13,7 @@ I used PCA on the wine dataset available in sklearn to vizualize and analyze the
 
 ### Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+</details>
 <br>
 ## [2D Random Walk Simulator](https://github.com/dua-malik/Academic_Projects/blob/main/2DRandomWalk.ipynb):
 ### Objective:
