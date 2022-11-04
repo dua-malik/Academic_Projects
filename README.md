@@ -24,7 +24,7 @@ In this project, I implemented a 1D and 2D random walk simulator to model the ma
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 <br>
 
-## [Tic Tac Toe Simulator](https://github.com/dua-malik/Academic_Projects/blob/main/TicTacToe.ipynb):
+## [Tic-Tac-Toe Simulator](https://github.com/dua-malik/Academic_Projects/blob/main/TicTacToe.ipynb):
 ### Objective:
 This project aimed to develop a Tic Tac Toe game using python (including libraries such as NumPy). The code goes into detail regarding the intricacies of the game. It aims to provide a game in which the user can decide an NxN board and play against their opponent. 
 
@@ -36,8 +36,3 @@ This project takes the game rules into account, which include:
 
 ### Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-
-
-
-
-
