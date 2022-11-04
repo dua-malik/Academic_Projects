@@ -12,8 +12,7 @@ I used PCA on the wine dataset available in sklearn to vizualize and analyze the
 
 ### Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-<br>
+ 
 ## [2D Random Walk Simulator](https://github.com/dua-malik/Academic_Projects/blob/main/2DRandomWalk.ipynb):
 ### Objective:
 
