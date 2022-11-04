@@ -33,7 +33,8 @@ In this project, I implemented a 2D random walk simulator to model the mathemati
 ### Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 
-# 👩🏻‍💻 About Me:
+<br><br><br>
+## 👩🏻‍💻 About Me:
 👋Hello!<br><br> I'm Dua, a graduate student at UTA studying Data Science with an emphasis on data visualization and machine learning.<br><br>📧 Shoot me an email or connect with me on LinkedIn! :)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duajmalik) 
