@@ -1,5 +1,3 @@
-# Academic Projects:
-
 ## About This Repository:
 
 This repository contains projects I have worked on during my undergraduate and graduate career. 
