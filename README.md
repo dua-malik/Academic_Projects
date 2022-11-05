@@ -32,8 +32,7 @@ This website is hosted on UTA's server and source code can be found on GitHub.
 ### Accomplishments:
 Weekday Vegetarian was selected as the best website out of 80+ websites that were presented. 
 
-### Link To Source Code:
-### [Weekday Vegetarian](https://github.com/dua-malik/WV_website)
+### [Weekday Vegetarian Source Code](https://github.com/dua-malik/WV_website)
 
 ### Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
