@@ -19,9 +19,24 @@ I used PCA on the wine dataset available in sklearn to vizualize and analyze the
 A random walk is a mathematical concept that describes a path that consists of random steps in a mathematical space represented as integers. Examples of this include how molecules trabel in liquid or gas, or how animals forage for food. The random walk model has many applications spanning many STEM subjects such as ecology, computer science, and chemistry. 
 
 In this project, I implemented a 1D and 2D random walk simulator to model the mathematical concept using Python. 
-### Hello
+
 ### Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+<br>
+## [Weekday Vegetarian Website](https://github.com/dua-malik/WV_website): 
+### Objective:
+During my time as an undergraduate student, I was tasked with creating a personal website using HTML5 and CSS. Students were free to select any area they'd like to develop. Websites could range from restaurant websites to portfolios. I decided to create a website that I resonated with personally. As someone who enjoys cooking but finds it annoying to flip through a large cookbook for the right recipe, I decided to create a website that are vegetarian based and are moderately easy to create. Furthermore, the website is responsive. I focused heavily on the UI and design of the website to attract a younger audience to interact with in a meaningful way. 
+
+This website is hosted on UTA's server and source code can be found on GitHub. 
+
+### Accomplishments:
+Weekday Vegetarian was selected as the best website out of 80+ websites that were presented. 
+
+### Link:
+### [Weekday Vegetarian](http://ctec2350.dxm8465.uta.cloud/final/)
+
+### Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 <br>
 
 ## [Tic-Tac-Toe Simulator](https://github.com/dua-malik/Academic_Projects/blob/main/TicTacToe.ipynb):
