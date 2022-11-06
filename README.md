@@ -4,7 +4,7 @@ This repository contains projects I have worked on during my undergraduate and g
 <br>
 
 ## Table of Contents:
-1. [PCA on Wine Dataset](https://github.com/dua-malik/Academic_Projects#random-walk-simulator)
+1. [PCA on Wine Dataset](https://github.com/dua-malik/Academic_Projects#principal-component-analysis-pca-on-wine-dataset)
 2. [Random Walk Simulator](https://github.com/dua-malik/Academic_Projects#random-walk-simulator)
 3. [Weekday Vegetarian Website](https://github.com/dua-malik/Academic_Projects#weekday-vegetarian-website)
 4. [Tic-Tac-Toe Simulator](https://github.com/dua-malik/Academic_Projects#tic-tac-toe-simulator)
