@@ -13,6 +13,24 @@ This repository contains projects I have worked on during my undergraduate and g
 7. [Tic-Tac-Toe Simulator](https://github.com/dua-malik/Academic_Projects#tic-tac-toe-simulator)
 <br><br>
 
+## [Analyzing Motor Vehicle Collisions in New York](https://github.com/dua-malik/MVC_DataAnalysis):
+### Objective:
+n this project, I analyzed a dataset detailing motor vehicle collisions in the state of New York. The dataset spanned from the year 2012 to the present day. Each row represented a new collision (recorded daily). With over three million rows of data, I was tasked with extracting a subset of rows ranging from December 1st, 2019, to November 30th, 2021 to perform three separate analyses. Furthermore, I was responsible for analyzing data regarding the following vehicle makes which were used in the first two analyses:
+
+    Nissan
+    Kia
+    Hino
+    GMC
+
+
+Using this subset of data, I explored how many accidents each vehicle make was involved in during the period. The first analysis investigated vehicle collisions on a yearly basis. The second analysis was like the first, however this time, I was also interested in the number of vehicle collisions on a month-to-month basis. The third and final analysis focused on the vehicle type. In this analysis, I investigated the overall proportion of vehicle collisions in New York based on vehicle type.
+
+### Accomplishments:
+This project was selected as one of the Top 3 data analysis projects out of 100+ students. I was selected to present my findings to a class of 80+ students in which I explained my thought process, my approach to different analyses, as well as how to create stories with data. 
+
+### Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ## [Principal Component Analysis (PCA) on Wine Dataset](https://github.com/dua-malik/Academic_Projects/blob/main/PCA_WineData.ipynb):
 ### Objective:
 Principal component analysis is a stastical approach that summarizes content within large datasets using summary indices. These summary indices can then be used to visualize and analyze the data. PCA is a great tool that improves performance with minimal loss of model accuracy. Furthermore, it helps reduce noise in the data, and aids in the ability to identify/produce independent features in the data that do not share any correlation. 
