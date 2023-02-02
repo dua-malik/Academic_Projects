@@ -4,10 +4,13 @@ This repository contains projects I have worked on during my undergraduate and g
 <br>
 
 ## Table of Contents:
-1. [PCA on Wine Dataset](https://github.com/dua-malik/Academic_Projects#principal-component-analysis-pca-on-wine-dataset)
-2. [Random Walk Simulator](https://github.com/dua-malik/Academic_Projects#random-walk-simulator)
-3. [Weekday Vegetarian Website](https://github.com/dua-malik/Academic_Projects#weekday-vegetarian-website)
-4. [Tic-Tac-Toe Simulator](https://github.com/dua-malik/Academic_Projects#tic-tac-toe-simulator)
+1. [Analyzying Motor Vehicle Collisions in New York](https://github.com/dua-malik/MVC_DataAnalysis)
+2. [Visualizing the IMDb Database](https://github.com/dua-malik/IMDb_DataAnalysis)
+3. [PCA on Wine Dataset](https://github.com/dua-malik/Academic_Projects#principal-component-analysis-pca-on-wine-dataset)
+4. [Exploring Possible Factors That Impact Median Listing Prices For Homes In America](https://github.com/dua-malik/HomeValueEDA)
+5. [Random Walk Simulator](https://github.com/dua-malik/Academic_Projects#random-walk-simulator)
+6. [Weekday Vegetarian Website](https://github.com/dua-malik/Academic_Projects#weekday-vegetarian-website)
+7. [Tic-Tac-Toe Simulator](https://github.com/dua-malik/Academic_Projects#tic-tac-toe-simulator)
 <br><br>
 
 ## [Principal Component Analysis (PCA) on Wine Dataset](https://github.com/dua-malik/Academic_Projects/blob/main/PCA_WineData.ipynb):
