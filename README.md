@@ -15,7 +15,7 @@ This repository contains projects I have worked on during my undergraduate and g
 
 ## [Analyzing Motor Vehicle Collisions in New York](https://github.com/dua-malik/MVC_DataAnalysis):
 ### Objective:
-n this project, I analyzed a dataset detailing motor vehicle collisions in the state of New York. The dataset spanned from the year 2012 to the present day. Each row represented a new collision (recorded daily). With over three million rows of data, I was tasked with extracting a subset of rows ranging from December 1st, 2019, to November 30th, 2021 to perform three separate analyses. Furthermore, I was responsible for analyzing data regarding the following vehicle makes which were used in the first two analyses:
+In this project, I analyzed a dataset detailing motor vehicle collisions in the state of New York. The dataset spanned from the year 2012 to the present day. Each row represented a new collision (recorded daily). With over three million rows of data, I was tasked with extracting a subset of rows ranging from December 1st, 2019, to November 30th, 2021 to perform three separate analyses. Furthermore, I was responsible for analyzing data regarding the following vehicle makes which were used in the first two analyses:
 
     Nissan
     Kia
@@ -31,6 +31,19 @@ This project was selected as one of the Top 3 data analysis projects out of 100+
 ### Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+## [Visualizing the IMDb Database](https://github.com/dua-malik/IMDb_DataAnalysis)
+### Objective:
+In this project, I analyzed the largest and most comprehensive film/TV database on the web. This source stores a multitude of information ranging from TV Shows to Movies and houses a timeline of Actors/Actresses' active acting careers serving as a time capsule of their work and impact on the arts. IMDb does not only focus on Hollywood-based productions and actors/actresses but encapsulates the international community of Film.
+
+I analyzed the careers of four prolific actors and actresses, including Julie Andrews, Bruce Lee, Kirk Douglas, and Audrey Hepburn. Two primary analyses were conducted to explore different aspects of the IMDb database.
+
+### Accomplishments:
+
+Selected as the top analysis out of 100 analyses that were conducted. Furthermore, data story-telling and presentation skills were praised. 
+
+### Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ## [Principal Component Analysis (PCA) on Wine Dataset](https://github.com/dua-malik/Academic_Projects/blob/main/PCA_WineData.ipynb):
 ### Objective:
 Principal component analysis is a stastical approach that summarizes content within large datasets using summary indices. These summary indices can then be used to visualize and analyze the data. PCA is a great tool that improves performance with minimal loss of model accuracy. Furthermore, it helps reduce noise in the data, and aids in the ability to identify/produce independent features in the data that do not share any correlation. 
@@ -43,6 +56,15 @@ This project was selected as the best project out of 20+ submissions. It was fur
 ### Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
  
+## [Exploring Possible Factors That Impact Median Listing Prices For Homes In America](https://github.com/dua-malik/HomeValueEDA)
+### Objective:
+Since the COVID-19 Pandemic, housing prices have skyrocketed or pummeled in certain areas. With the rise of remote work, many individuals have moved away from areas closer to their workplaces, or have used the pandemic as an opportunity to move elsewhere. It is hard to watch the news without housing prices being mentioned. As a homeowner myself, I wanted to explore what factors impact the overall cost of a house. After doing some research I decided to explore factors including walkability, access to public transportation, unemployment rates, and overall happiness/quality of life in an area. Furthermore, I wanted to explore another factor that was linked to house-value by the University of Washington School of Public Health and that is obesity rates.
+
+Analysis was done using Python, Pandas, and Plotly to visualize data.
+
+### Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ## [Random Walk Simulator](https://github.com/dua-malik/Academic_Projects/blob/main/2DRandomWalk.ipynb):
 ### Objective:
 
